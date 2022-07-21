@@ -24,7 +24,7 @@ Olá, eu sou a Tamires Dos Santos 👋
 <div> 
   
   <a href = "mailto:tamiressantos9619@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamires-dos-santos-2ba871231/)
+  
  
   ![Snake animation](https://github.com/TamiresSss/TamiresSss/blob/output/github-contribution-grid-snake.svg)
  
